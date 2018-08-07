@@ -1,5 +1,6 @@
 
 # Code your methods below
+
 def Gagnam_Style
   starting_stance = "Plant legs far apart, bend knees slightly and keep posture loose"
   base_footwork = "Lift right foot
