@@ -7,7 +7,7 @@
 
 ## Dance Instructions
 
-proper_stance = 
+
 
 When we learned about printing directly to the console through the Macarena, the
 steps were quite literal and simply echoed back each individual line as desired.
