@@ -1,7 +1,7 @@
 
 # Code your methods below
 def Gagnam_Style
-  assume_stance = "Plant legs far apart, bend knees slightly and keep posture loose"
+  starting_stance = "Plant legs far apart, bend knees slightly and keep posture loose"
   base_footwork = "Lift right foot
 
 Return right foot to the ground
@@ -26,7 +26,7 @@ Raise right forearm so that it points straight up, and whip it in small circles 
   bust_a_move = "Be cool
 Be snazzy!"
   
-puts assume_stance
+puts starting_stance
 puts bust_a_move
 puts base_footwork
 puts bob_the_reins
