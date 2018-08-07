@@ -26,5 +26,27 @@ Raise right forearm so that it points straight up, and whip it in small circles 
   bust_a_move = "Be cool
 Be snazzy!"
   
-puts 
+puts assume_stance
+puts bust_a_move
+puts base_footwork
+puts bob_the_reins
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts lasso
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+puts skip_step
+
+
 end
