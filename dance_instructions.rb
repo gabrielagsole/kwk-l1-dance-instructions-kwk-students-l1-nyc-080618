@@ -1,7 +1,7 @@
 
 # Code your methods below
 
-def Gagnam_Style
+def Gangnam_style
   assume_stance = "Plant legs far apart, bend knees slightly and keep posture loose"
   base_footwork = "Lift right foot
 
@@ -52,4 +52,4 @@ puts skip_step
 
 end
 
-Gagnam_Style
+Gangnam_style
